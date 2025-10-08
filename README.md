@@ -2,6 +2,8 @@
 A comprehensive SQL analytics project using a pizza restaurant dataset to compute demand patterns, pricing insights, and revenue KPIs. Includes starter, intermediate, and advanced queries covering order volumes, price leaders, category trends, hourly distributions, daily averages, and cumulative revenue analysis.
 
 **Pizza Sales Analytics: End‑to‑End SQL KPIs and Revenue Intelligence 🍕** 
+
+
 **Overview** 🔎
 
 SQL analytics over 4 tables with 15+ KPIs, time‑series insights, and revenue intelligence for a pizza retailer 📊.
